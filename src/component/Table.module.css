@@ -1,0 +1,17 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.right {
+  margin: 1.5rem;
+}
+button {
+  height: 2rem;
+  width: auto;
+  color: white;
+  background-color: black;
+  border-radius: 16px;
+}
